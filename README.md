@@ -1,5 +1,5 @@
 # Bosch_BNO055_IMU_Arduino_Interface
-Arduino code to read data from the Bosch BNO055 IMU sensor
+This project demonstrates how to interface with the GY-955 BNO055 sensor using an Arduino Uno. It includes functions for reading calibration data, setting calibration parameters, and acquiring sensor data such as accelerometer, magnetometer, gyroscope, Euler angles, and quaternions.
 
 # Bosch BNO055 IMU Data Interface with Arduino
 
